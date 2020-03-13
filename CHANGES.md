@@ -1,3 +1,7 @@
+1.6.1
+-----
+* Adding support for Rails 6 zeitwerk default constant loading
+
 1.6.0
 -----
 * Dropping support for Ruby < 2.2 and Rails < 4.2 (#323)
